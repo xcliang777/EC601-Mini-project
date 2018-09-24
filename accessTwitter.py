@@ -5,10 +5,10 @@ import wget
 import os
 
 
-consumer_key = 'mASvml7pamsix0KsU5fzezqLZ'
-consumer_secret = 'H4IfHzMGYC7FkDMtGdJuiZLYhLiZRJUwkb0sW69wZLg7CIuca5'
-access_token = '1038771110240837638-vOCc1XoHpnKIPltRQBx4X1IiCMrosg'
-access_secret = 'xFxSqhyJkrXagR79c47BjNmh9WwyWmXUhnU7PYToxSfdX'
+consumer_key = ' '
+consumer_secret = ' '
+access_token = ' '
+access_secret = ' '
 
 
 @classmethod
