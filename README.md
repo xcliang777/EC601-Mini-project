@@ -6,7 +6,9 @@ Description
 
 Components used in this project:
     Twitter API
+	
     FFMPRG
+	
     Google Vision API
     
     
