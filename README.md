@@ -19,7 +19,7 @@ Notes:
 2. You have to add the path where you download the pictures and your json file path
 3. Username and password when creating the databse
 4. Change user to download pictures on line 88
-5. Change label to look up on lone 201
+5. Change label to look up on line 201
 
 
 Guides to set up mysql on mac:
